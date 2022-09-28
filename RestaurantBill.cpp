@@ -44,7 +44,6 @@ int main()
 	cin >> tip;
 	cout << endl;
 
-	//comment
 	// Calculations
 
 	tax = foodBill * TAX_PERCENT;
